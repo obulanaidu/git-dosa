@@ -1,5 +1,5 @@
 # Dosa Shop
 
 # Plain Dosa
-* Dosa batter
+* Dosa battar
 * Light Oil
